@@ -1,0 +1,10 @@
+### 2. Thao tác với Repo
+- [2.1. Trên Linux](git-trenlinux.md)
+    - [2.1.1. Tạo mới](git-taomoi.md)
+    - [2.1.2. Clone](git-clone.md)
+    - [2.1.3. Add, commit, push](git-addcmpush.md)
+    - [2.1.4. Pull](git-pull.md)
+- [2.2. Trên Windows](git-trenwindows.md)
+    - [2.2.1. Tạo một repo mới](git-taomoirepo.md)
+    - [2.2.2. Clone](git-clonewindows.md)
+    - [2.2.3. Add, commit, push, pull ](git.-addcmpushpullwd.md)
